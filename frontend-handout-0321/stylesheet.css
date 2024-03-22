@@ -1,5 +1,5 @@
 .profile{
-    width: 250px;
+    width: 300px;
     display: block;
     margin: auto;
 }
@@ -7,7 +7,6 @@
 .title{
     line-height:300%; 
     letter-spacing: -1px; 
-    /*color: rgb(255, 102, 0);*/
     color: gray;
     text-align: center;
 }
