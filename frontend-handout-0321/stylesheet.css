@@ -1,0 +1,18 @@
+.profile{
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+
+.title{
+    line-height:300%; 
+    letter-spacing: -1px; 
+    color: gray;
+    text-align: center;
+}
+
+.content{
+    line-height:30px;
+    letter-spacing: -1px;
+    text-align: center;
+}
