@@ -30,7 +30,7 @@
     margin: auto;
 }
 .grid_container .first_item{
-    width:600px;
+    width: 600px;
     justify-self: center;
     grid-column: 1/ 4;
     grid-row: 1 / 2;
