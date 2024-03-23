@@ -1,0 +1,16 @@
+.profile {
+    width: 230px;
+    display: block;
+    margin: auto;
+}
+
+.title {
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: -1px;
+}
+
+.subTitle {
+    text-align: center;
+    line-height: 50%;
+}
